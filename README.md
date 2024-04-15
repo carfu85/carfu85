@@ -1,4 +1,5 @@
-![Logo]([Logo](https://github.com/carfu85/carfu85/blob/main/Fondo1.png))
+<div style="background-image: url(https://raw.githubusercontent.com/carfu85/carfu85/main/Fondo1.png);">
+  
 # 👋 Hola mi nombre es Carlos Fuentes
 ## Ingeniero Eléctrico y Apasionado de la Tecnología
 ¡Hola! Mi nombre es Carlos Fuentes, y soy un ingeniero eléctrico con una curiosidad insaciable por la tecnología. Recientemente, he dado mis primeros pasos en el mundo de la programación utilizando Python.
