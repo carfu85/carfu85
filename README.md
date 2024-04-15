@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-image: url(https://raw.githubusercontent.com/carfu85/carfu85/main/Logo.png);">
   
 # 👋 **Hola mi nombre es Carlos Fuentes** 👋
 
@@ -25,8 +25,11 @@ He creado este espacio para:
 
 Si tienes sugerencias, recursos o simplemente quieres charlar sobre programación, ¡no dudes en contactarme! Estoy emocionado por este viaje y ansioso por aprender y crecer junto a otros apasionados por la tecnología.
 
-¡Bienvenidos a mi rincón digital! 🚀
+<div align="center">
 
+# ¡Bienvenidos a mi rincón digital! 🚀
+
+</div>
 
 <!--
 **carfu85/carfu85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
