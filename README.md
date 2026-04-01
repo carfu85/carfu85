@@ -11,7 +11,7 @@
 
 > ### *Sobre Mí*
 - Profesión: Ingeniero eléctrico con experiencia en sistemas de potencia y automatización.
-- Ubicación: Ciudad de México, un lugar lleno de energía y oportunidades.
+- Ubicación: Queretaro, un lugar lleno de energía y oportunidades.
 - Objetivo: Ampliar mis conocimientos en programación y aplicarlos en proyectos prácticos.
   
 > ### *Por Qué Este Espacio*
